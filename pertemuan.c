@@ -5,7 +5,7 @@ void main()
 {
     int umur;
 
-    printf("masukkan umur klian :");
+    printf("maasukkan umur klian :");
 }
 
 
